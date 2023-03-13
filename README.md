@@ -1,1 +1,2 @@
 # Shopping-Cart-Clothing-Store
+This code creates a simple shopping cart web application using React. The application displays a list of available items and their stock count. Users can click on an item to add it to their cart, which is displayed in a separate column. The stock count for the item in the available items list is decremented and the cart list is updated. React.useState is used to keep track of the available stock and the items in the cart. The Cart component receives the cart items as props and displays them in a list.
